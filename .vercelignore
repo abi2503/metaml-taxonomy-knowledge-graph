@@ -1,0 +1,9 @@
+.venv/
+venv/
+webprotege/
+scripts/
+tests/
+lib/
+.chroma/
+data/chroma_taxonomy/
+taxonomy_graph.html

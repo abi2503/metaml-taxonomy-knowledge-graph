@@ -1,0 +1,14 @@
+# Optional: Render Blueprint — deploy FastAPI only.
+# Streamlit UI: deploy separately on https://share.streamlit.io (see DEPLOYMENT.md).
+
+services:
+  - type: web
+    name: rag-metaml-api
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: PYTHONPATH=. uvicorn index.api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.10.12"

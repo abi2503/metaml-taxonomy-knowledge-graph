@@ -1,0 +1,5164 @@
+{
+  "domains": [
+    {
+      "id": "domain_1",
+      "label": "FinTech"
+    },
+    {
+      "id": "domain_2",
+      "label": "HealthTech"
+    },
+    {
+      "id": "domain_3",
+      "label": "InfoTech"
+    },
+    {
+      "id": "domain_4",
+      "label": "InfoServTech"
+    },
+    {
+      "id": "domain_5",
+      "label": "Insurtech"
+    },
+    {
+      "id": "domain_6",
+      "label": "RegTech"
+    },
+    {
+      "id": "domain_7",
+      "label": "RetailTech"
+    },
+    {
+      "id": "domain_8",
+      "label": "TechTech"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "dimension_1",
+      "label": "Global Markets"
+    },
+    {
+      "id": "dimension_2",
+      "label": "Banking"
+    },
+    {
+      "id": "dimension_3",
+      "label": "Digital Currencies"
+    },
+    {
+      "id": "dimension_4",
+      "label": "Digital Custody"
+    },
+    {
+      "id": "dimension_5",
+      "label": "Infrastructure and Value-Add Services"
+    },
+    {
+      "id": "dimension_6",
+      "label": "Payments"
+    },
+    {
+      "id": "dimension_7",
+      "label": "Marketplaces"
+    },
+    {
+      "id": "dimension_8",
+      "label": "Consensus Services"
+    },
+    {
+      "id": "dimension_9",
+      "label": "Loyalty Programs"
+    },
+    {
+      "id": "dimension_10",
+      "label": "Law and Regulation"
+    },
+    {
+      "id": "dimension_11",
+      "label": "Lending & Borrowing"
+    },
+    {
+      "id": "dimension_12",
+      "label": "Government Sector"
+    },
+    {
+      "id": "dimension_13",
+      "label": "WealthTech"
+    },
+    {
+      "id": "dimension_14",
+      "label": "Insurtech"
+    },
+    {
+      "id": "dimension_15",
+      "label": "Market Provisioning"
+    },
+    {
+      "id": "dimension_16",
+      "label": "FinTech Technology"
+    },
+    {
+      "id": "dimension_17",
+      "label": "Health/MedTech"
+    },
+    {
+      "id": "dimension_18",
+      "label": "BioTech"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area_1",
+      "label": "Trading"
+    },
+    {
+      "id": "area_2",
+      "label": "Algorithmic Trading"
+    },
+    {
+      "id": "area_3",
+      "label": "Banking Type"
+    },
+    {
+      "id": "area_4",
+      "label": "Personal Banking"
+    },
+    {
+      "id": "area_5",
+      "label": "Business Banking"
+    },
+    {
+      "id": "area_6",
+      "label": "Digital/Virtual Banking"
+    },
+    {
+      "id": "area_7",
+      "label": "Digital Banking Services"
+    },
+    {
+      "id": "area_8",
+      "label": "Fully Digitally Native Bank (Retail)"
+    },
+    {
+      "id": "area_9",
+      "label": "Fully Digitally Native Banke (MSME)"
+    },
+    {
+      "id": "area_10",
+      "label": "Marketplace Bank (Retail)"
+    },
+    {
+      "id": "area_11",
+      "label": "Banking-as-a-Service (BaaS)"
+    },
+    {
+      "id": "area_12",
+      "label": "Agent Banking (Cash-In/Cash-Out)"
+    },
+    {
+      "id": "area_13",
+      "label": "Digital Identity Verification"
+    },
+    {
+      "id": "area_14",
+      "label": "Cryptocurrencies"
+    },
+    {
+      "id": "area_15",
+      "label": "CBDCs and Stablecoins"
+    },
+    {
+      "id": "area_16",
+      "label": "Banking Platforms"
+    },
+    {
+      "id": "area_17",
+      "label": "Mobile Banking"
+    },
+    {
+      "id": "area_18",
+      "label": "Digital Savings"
+    },
+    {
+      "id": "area_19",
+      "label": "Digital Money Market/Fund"
+    },
+    {
+      "id": "area_20",
+      "label": "Digital Micro Saving Solutions"
+    },
+    {
+      "id": "area_21",
+      "label": "Digital Savings Collection/Pool"
+    },
+    {
+      "id": "area_22",
+      "label": "Savings-as-a-Service (SaaS)"
+    },
+    {
+      "id": "area_23",
+      "label": "Deposits"
+    },
+    {
+      "id": "area_24",
+      "label": "Demand Deposits"
+    },
+    {
+      "id": "area_25",
+      "label": "Savings Accounts"
+    },
+    {
+      "id": "area_26",
+      "label": "Time Deposits"
+    },
+    {
+      "id": "area_27",
+      "label": "Call Deposits"
+    },
+    {
+      "id": "area_28",
+      "label": "Bank Name"
+    },
+    {
+      "id": "area_29",
+      "label": "Citi"
+    },
+    {
+      "id": "area_30",
+      "label": "JP Morgan"
+    },
+    {
+      "id": "area_31",
+      "label": "Bank of America"
+    },
+    {
+      "id": "area_32",
+      "label": "Wells Fargo"
+    },
+    {
+      "id": "area_33",
+      "label": "Banking Infrastructure"
+    },
+    {
+      "id": "area_34",
+      "label": "Cryptocurrency Wallets"
+    },
+    {
+      "id": "area_35",
+      "label": "Cryptocurrency Payments"
+    },
+    {
+      "id": "area_36",
+      "label": "Cryptocurrency Exchange and Trading"
+    },
+    {
+      "id": "area_37",
+      "label": "Cryptoasset Exchange"
+    },
+    {
+      "id": "area_38",
+      "label": "Trading"
+    },
+    {
+      "id": "area_39",
+      "label": "Order-Book"
+    },
+    {
+      "id": "area_40",
+      "label": "DEX Relayer"
+    },
+    {
+      "id": "area_41",
+      "label": "Singler Dealer Platform/OTC Trading"
+    },
+    {
+      "id": "area_42",
+      "label": "Trading Bots"
+    },
+    {
+      "id": "area_43",
+      "label": "HFT Services"
+    },
+    {
+      "id": "area_44",
+      "label": "Advance Trading Services"
+    },
+    {
+      "id": "area_45",
+      "label": "Intermediation & Brokerage"
+    },
+    {
+      "id": "area_46",
+      "label": "Brokerage Services"
+    },
+    {
+      "id": "area_47",
+      "label": "Aggregation"
+    },
+    {
+      "id": "area_48",
+      "label": "Other Financial Transaction Processing"
+    },
+    {
+      "id": "area_49",
+      "label": "Bitcoin Teller Machines (BTM)"
+    },
+    {
+      "id": "area_50",
+      "label": "Bitcoin Exchanges"
+    },
+    {
+      "id": "area_51",
+      "label": "Bitcoin Mining"
+    },
+    {
+      "id": "area_52",
+      "label": "P2P Marketplaces"
+    },
+    {
+      "id": "area_53",
+      "label": "Clearing"
+    },
+    {
+      "id": "area_54",
+      "label": "Mining"
+    },
+    {
+      "id": "area_55",
+      "label": "Digital Wallet"
+    },
+    {
+      "id": "area_56",
+      "label": "Software Wallet"
+    },
+    {
+      "id": "area_57",
+      "label": "Mobile Wallet"
+    },
+    {
+      "id": "area_58",
+      "label": "Tablet Wallet"
+    },
+    {
+      "id": "area_59",
+      "label": "Desktop Wallet"
+    },
+    {
+      "id": "area_60",
+      "label": "Collaborative Custody"
+    },
+    {
+      "id": "area_61",
+      "label": "Vault Services"
+    },
+    {
+      "id": "area_62",
+      "label": "Key Management Services"
+    },
+    {
+      "id": "area_63",
+      "label": "Other"
+    },
+    {
+      "id": "area_64",
+      "label": "Hardware Wallet"
+    },
+    {
+      "id": "area_65",
+      "label": "Decentralized Oracles"
+    },
+    {
+      "id": "area_66",
+      "label": "Decentralized Storage System"
+    },
+    {
+      "id": "area_67",
+      "label": "Node as a Service"
+    },
+    {
+      "id": "area_68",
+      "label": "Alternative Payment Methods"
+    },
+    {
+      "id": "area_69",
+      "label": "Blockchain and Cryptocurrencies"
+    },
+    {
+      "id": "area_70",
+      "label": "Cryptocurrencies"
+    },
+    {
+      "id": "area_71",
+      "label": "Digital Assets"
+    },
+    {
+      "id": "area_72",
+      "label": "Central Bank Digital Currency (CBDC) and Stablecoins"
+    },
+    {
+      "id": "area_73",
+      "label": "Commercial"
+    },
+    {
+      "id": "area_74",
+      "label": "Retail"
+    },
+    {
+      "id": "area_75",
+      "label": "Fungible Cryptoassets"
+    },
+    {
+      "id": "area_76",
+      "label": "DeFi Instruments"
+    },
+    {
+      "id": "area_77",
+      "label": "Derivatives"
+    },
+    {
+      "id": "area_78",
+      "label": "Symthetics"
+    },
+    {
+      "id": "area_79",
+      "label": "Private Issuer"
+    },
+    {
+      "id": "area_80",
+      "label": "Utility Tokens"
+    },
+    {
+      "id": "area_81",
+      "label": "Stablecoins"
+    },
+    {
+      "id": "area_82",
+      "label": "Other Private Issuer"
+    },
+    {
+      "id": "area_83",
+      "label": "Fully Decentralized"
+    },
+    {
+      "id": "area_84",
+      "label": "Nonfungible Tokens (NFT)"
+    },
+    {
+      "id": "area_85",
+      "label": "Authentification NFT"
+    },
+    {
+      "id": "area_86",
+      "label": "Ownership NFT"
+    },
+    {
+      "id": "area_87",
+      "label": "Signle Use"
+    },
+    {
+      "id": "area_88",
+      "label": "Reusable"
+    },
+    {
+      "id": "area_89",
+      "label": "Perpetual"
+    },
+    {
+      "id": "area_90",
+      "label": "Real Asset"
+    },
+    {
+      "id": "area_91",
+      "label": "Security"
+    },
+    {
+      "id": "area_92",
+      "label": "Threats to Protocols"
+    },
+    {
+      "id": "area_93",
+      "label": "Consensus Mechanism"
+    },
+    {
+      "id": "area_94",
+      "label": "Smart Contracts"
+    },
+    {
+      "id": "area_95",
+      "label": "Virtual Machines"
+    },
+    {
+      "id": "area_96",
+      "label": "Cryptographic Algorithms"
+    },
+    {
+      "id": "area_97",
+      "label": "Pratical Quantum Computers"
+    },
+    {
+      "id": "area_98",
+      "label": "Threats to Networks"
+    },
+    {
+      "id": "area_99",
+      "label": "Node Routing Tables"
+    },
+    {
+      "id": "area_100",
+      "label": "Distributed DoS"
+    },
+    {
+      "id": "area_101",
+      "label": "Node Identity"
+    },
+    {
+      "id": "area_102",
+      "label": "Node Routing Tables"
+    },
+    {
+      "id": "area_103",
+      "label": "Threats to Data"
+    },
+    {
+      "id": "area_104",
+      "label": "Transactions"
+    },
+    {
+      "id": "area_105",
+      "label": "Digital Wallets"
+    },
+    {
+      "id": "area_106",
+      "label": "Private Keys"
+    },
+    {
+      "id": "area_107",
+      "label": "Timestamps"
+    },
+    {
+      "id": "area_108",
+      "label": "Digital Payments/Payment Platforms"
+    },
+    {
+      "id": "area_109",
+      "label": "Payment Services"
+    },
+    {
+      "id": "area_110",
+      "label": "Foreign Exchange & Remittance"
+    },
+    {
+      "id": "area_111",
+      "label": "Digital Remittances (Cross Border-P2P)"
+    },
+    {
+      "id": "area_112",
+      "label": "Digital Remittances (Domestic-P2P)"
+    },
+    {
+      "id": "area_113",
+      "label": "Money Transfer (P2P, P2B, B2P, B2B)"
+    },
+    {
+      "id": "area_114",
+      "label": "eMoney Issuers"
+    },
+    {
+      "id": "area_115",
+      "label": "Acquiring Services Providers for Merchants"
+    },
+    {
+      "id": "area_116",
+      "label": "Points of Access/POS Payments (PoS, mPoS, On-Line PoS)"
+    },
+    {
+      "id": "area_117",
+      "label": "Bulk Payment Solutions"
+    },
+    {
+      "id": "area_118",
+      "label": "Payroll"
+    },
+    {
+      "id": "area_119",
+      "label": "Grants"
+    },
+    {
+      "id": "area_120",
+      "label": "Backend Services"
+    },
+    {
+      "id": "area_121",
+      "label": "Payment Gateways"
+    },
+    {
+      "id": "area_122",
+      "label": "Payment Aggregators"
+    },
+    {
+      "id": "area_123",
+      "label": "API Hubs for Payments"
+    },
+    {
+      "id": "area_124",
+      "label": "Payment Systems Operators"
+    },
+    {
+      "id": "area_125",
+      "label": "Settlement and Clearing Services Providers"
+    },
+    {
+      "id": "area_126",
+      "label": "Online Payments"
+    },
+    {
+      "id": "area_127",
+      "label": "Mobile Payments"
+    },
+    {
+      "id": "area_128",
+      "label": "P2P Mobile Payments"
+    },
+    {
+      "id": "area_129",
+      "label": "Digital Wallets"
+    },
+    {
+      "id": "area_130",
+      "label": "Mobile Wallets"
+    },
+    {
+      "id": "area_131",
+      "label": "Billing & Invoicing"
+    },
+    {
+      "id": "area_132",
+      "label": "Money/Transfer"
+    },
+    {
+      "id": "area_133",
+      "label": "Real-Time Payments"
+    },
+    {
+      "id": "area_134",
+      "label": "Cards"
+    },
+    {
+      "id": "area_135",
+      "label": "Online Marketplaces"
+    },
+    {
+      "id": "area_136",
+      "label": "Supply Chain Finance"
+    },
+    {
+      "id": "area_137",
+      "label": "Decentralized Marketplaces"
+    },
+    {
+      "id": "area_138",
+      "label": "Service Provider"
+    },
+    {
+      "id": "area_139",
+      "label": " Match-Making"
+    },
+    {
+      "id": "area_140",
+      "label": "Transcation Settlement"
+    },
+    {
+      "id": "area_141",
+      "label": "Service Delivery"
+    },
+    {
+      "id": "area_142",
+      "label": "Dispute Resolution"
+    },
+    {
+      "id": "area_143",
+      "label": "Blockchain"
+    },
+    {
+      "id": "area_144",
+      "label": "Service Consumer"
+    },
+    {
+      "id": "area_145",
+      "label": "Supporting Actor"
+    },
+    {
+      "id": "area_146",
+      "label": "Proof of Work"
+    },
+    {
+      "id": "area_147",
+      "label": "Hardware Manufacturing"
+    },
+    {
+      "id": "area_148",
+      "label": "Remote Hosting Services"
+    },
+    {
+      "id": "area_149",
+      "label": "Cloud Mining"
+    },
+    {
+      "id": "area_150",
+      "label": "Hashrate Brokerage"
+    },
+    {
+      "id": "area_151",
+      "label": "Proprietary Hashing"
+    },
+    {
+      "id": "area_152",
+      "label": "Pool Operation"
+    },
+    {
+      "id": "area_153",
+      "label": "Hardware Procurement (Resale)"
+    },
+    {
+      "id": "area_154",
+      "label": "Firmware and/or Software"
+    },
+    {
+      "id": "area_155",
+      "label": "Proof of Stake"
+    },
+    {
+      "id": "area_156",
+      "label": "Staking Pool Operation"
+    },
+    {
+      "id": "area_157",
+      "label": "Staking-as-a-Service"
+    },
+    {
+      "id": "area_158",
+      "label": "Direct Lending"
+    },
+    {
+      "id": "area_159",
+      "label": "Direct Lending - Consumer"
+    },
+    {
+      "id": "area_160",
+      "label": "Direct Lending - Business"
+    },
+    {
+      "id": "area_161",
+      "label": "Digital Lending"
+    },
+    {
+      "id": "area_162",
+      "label": "Balance Sheet Lending"
+    },
+    {
+      "id": "area_163",
+      "label": "Balance Sheet Business Lending"
+    },
+    {
+      "id": "area_165",
+      "label": "Balance Sheet Property Lending"
+    },
+    {
+      "id": "area_166",
+      "label": "Balance Sheet Consumer Lending"
+    },
+    {
+      "id": "area_167",
+      "label": "P2P Lending"
+    },
+    {
+      "id": "area_168",
+      "label": "P2P Business Lending"
+    },
+    {
+      "id": "area_169",
+      "label": "P2P Property Lending"
+    },
+    {
+      "id": "area_170",
+      "label": "P2P Consumer Lending"
+    },
+    {
+      "id": "area_171",
+      "label": "P2P Property Lending"
+    },
+    {
+      "id": "area_172",
+      "label": "Marketplace Lending"
+    },
+    {
+      "id": "area_173",
+      "label": "Marketplace Business Lending"
+    },
+    {
+      "id": "area_174",
+      "label": "Marketplace Property Lending"
+    },
+    {
+      "id": "area_175",
+      "label": "Marketplace Consumer Lending"
+    },
+    {
+      "id": "area_176",
+      "label": "Debt-Based Securities"
+    },
+    {
+      "id": "area_177",
+      "label": "Invoice Trading"
+    },
+    {
+      "id": "area_178",
+      "label": "Crowd-Led Microfinance"
+    },
+    {
+      "id": "area_179",
+      "label": "Other Digital Credit Solutions"
+    },
+    {
+      "id": "area_180",
+      "label": "Consumer Purchase Financing/Customer Cash-Advance"
+    },
+    {
+      "id": "area_181",
+      "label": "Digital Merchant-Cash Advance Solutions"
+    },
+    {
+      "id": "area_182",
+      "label": "CBDCs and Stablecoins"
+    },
+    {
+      "id": "area_183",
+      "label": "Decentralized Exchanges"
+    },
+    {
+      "id": "area_184",
+      "label": "Decentralized Finance"
+    },
+    {
+      "id": "area_185",
+      "label": "Crowdlending"
+    },
+    {
+      "id": "area_186",
+      "label": "Real Estatate Lending"
+    },
+    {
+      "id": "area_187",
+      "label": "Mini-Bonds"
+    },
+    {
+      "id": "area_188",
+      "label": "Profit Sharing"
+    },
+    {
+      "id": "area_189",
+      "label": "Revenue"
+    },
+    {
+      "id": "area_190",
+      "label": "Tax"
+    },
+    {
+      "id": "area_191",
+      "label": "Intelligent Tax Payment Prompts"
+    },
+    {
+      "id": "area_192",
+      "label": "API-Driven Income and Expense Reporting"
+    },
+    {
+      "id": "area_193",
+      "label": "Pay Taxes via Bank Account"
+    },
+    {
+      "id": "area_194",
+      "label": "Big Data Analytics for Tax Evasion Detection"
+    },
+    {
+      "id": "area_195",
+      "label": "Real-Time Tax Liability Calculation"
+    },
+    {
+      "id": "area_196",
+      "label": "VAT SPlit Payments"
+    },
+    {
+      "id": "area_197",
+      "label": "Non-Tax"
+    },
+    {
+      "id": "area_198",
+      "label": "Open Banking for Intellectual Property Payments"
+    },
+    {
+      "id": "area_199",
+      "label": "Dynamic Pricing For Transport Payments"
+    },
+    {
+      "id": "area_200",
+      "label": "Modern Mobile Payments"
+    },
+    {
+      "id": "area_201",
+      "label": "Clean Air Zones Direct Debit"
+    },
+    {
+      "id": "area_202",
+      "label": "Open-Loop Transit Payments"
+    },
+    {
+      "id": "area_203",
+      "label": "E2E Automated Toll Collection"
+    },
+    {
+      "id": "area_204",
+      "label": "Expenditure"
+    },
+    {
+      "id": "area_205",
+      "label": "Government-to-Business (G2B)"
+    },
+    {
+      "id": "area_206",
+      "label": "Supply Chain Finance"
+    },
+    {
+      "id": "area_207",
+      "label": "Government BNPL"
+    },
+    {
+      "id": "area_208",
+      "label": "Early Supplier Payment"
+    },
+    {
+      "id": "area_209",
+      "label": "Tax Credits Financing"
+    },
+    {
+      "id": "area_210",
+      "label": "Advanced Spend Analytics"
+    },
+    {
+      "id": "area_211",
+      "label": "Standardised APIs for SME Credit Assessment"
+    },
+    {
+      "id": "area_212",
+      "label": "Government-to-Public (G2P)"
+    },
+    {
+      "id": "area_213",
+      "label": "Affordable Credit for Public Servants"
+    },
+    {
+      "id": "area_214",
+      "label": "Real-Time Temporary Worker Payments"
+    },
+    {
+      "id": "area_215",
+      "label": "Faster Benefits Payments"
+    },
+    {
+      "id": "area_216",
+      "label": "Digital Vouchers"
+    },
+    {
+      "id": "area_217",
+      "label": "Automated Claimant Assessments"
+    },
+    {
+      "id": "area_218",
+      "label": "Money Benefits Calculator"
+    },
+    {
+      "id": "area_219",
+      "label": "Oversight"
+    },
+    {
+      "id": "area_220",
+      "label": "Financial"
+    },
+    {
+      "id": "area_221",
+      "label": "Exploring CBDC Designs and Apporaches"
+    },
+    {
+      "id": "area_222",
+      "label": "Enhanced Data in Real-Time Payments"
+    },
+    {
+      "id": "area_223",
+      "label": "CBDCs in Remote Payments"
+    },
+    {
+      "id": "area_224",
+      "label": "Pension Dashboards"
+    },
+    {
+      "id": "area_225",
+      "label": "Supervisory"
+    },
+    {
+      "id": "area_226",
+      "label": "Network Analytics for Fraud Detection"
+    },
+    {
+      "id": "area_227",
+      "label": "Data-Driven Performance Dashboards"
+    },
+    {
+      "id": "area_228",
+      "label": "Data-Driven Debt Vulnerability Management"
+    },
+    {
+      "id": "area_229",
+      "label": "Real-Time Fraud Risk Analytics"
+    },
+    {
+      "id": "area_230",
+      "label": "Real-Time Name Checking"
+    },
+    {
+      "id": "area_231",
+      "label": "Real-Time Banking Supervision Metrics"
+    },
+    {
+      "id": "area_232",
+      "label": "Asset Management"
+    },
+    {
+      "id": "area_233",
+      "label": "Digital Wealth Management"
+    },
+    {
+      "id": "area_234",
+      "label": "Social Trading & Other Innovative Business Models"
+    },
+    {
+      "id": "area_235",
+      "label": "Robo-Advisors (Asset Management)"
+    },
+    {
+      "id": "area_236",
+      "label": "Robo Retirement/Pension Planning"
+    },
+    {
+      "id": "area_237",
+      "label": "Financial Comparison Sites"
+    },
+    {
+      "id": "area_238",
+      "label": "Financial Aggregator Platforms"
+    },
+    {
+      "id": "area_239",
+      "label": "Algorithmic Trading"
+    },
+    {
+      "id": "area_240",
+      "label": "Personal Financial Services"
+    },
+    {
+      "id": "area_241",
+      "label": "Personal Financial Management (PFM)/Planning"
+    },
+    {
+      "id": "area_242",
+      "label": "Personal Finance - Expense Related"
+    },
+    {
+      "id": "area_243",
+      "label": "Personal Finance - Investment"
+    },
+    {
+      "id": "area_244",
+      "label": "Budgeting"
+    },
+    {
+      "id": "area_245",
+      "label": "Comparision Platforms for Financial Services"
+    },
+    {
+      "id": "area_246",
+      "label": "Investments & Capital Markets"
+    },
+    {
+      "id": "area_247",
+      "label": "Digital Investments"
+    },
+    {
+      "id": "area_248",
+      "label": "CBDCs and Stablecoins"
+    },
+    {
+      "id": "area_249",
+      "label": "Decentralized Exchanges"
+    },
+    {
+      "id": "area_250",
+      "label": "Decentralized Finance"
+    },
+    {
+      "id": "area_251",
+      "label": "Supply Chain Finance"
+    },
+    {
+      "id": "area_252",
+      "label": "Governance"
+    },
+    {
+      "id": "area_253",
+      "label": "Application-Level Smart Contracts"
+    },
+    {
+      "id": "area_254",
+      "label": "DAO"
+    },
+    {
+      "id": "area_255",
+      "label": "ICO"
+    },
+    {
+      "id": "area_256",
+      "label": "Security Tokens"
+    },
+    {
+      "id": "area_257",
+      "label": "Utility Tokens"
+    },
+    {
+      "id": "area_258",
+      "label": "Payment Tokens"
+    },
+    {
+      "id": "area_259",
+      "label": "Protocol-Level"
+    },
+    {
+      "id": "area_260",
+      "label": "Private"
+    },
+    {
+      "id": "area_261",
+      "label": "Permissioned"
+    },
+    {
+      "id": "area_262",
+      "label": "Consortiums"
+    },
+    {
+      "id": "area_263",
+      "label": "Investment Platforms"
+    },
+    {
+      "id": "area_264",
+      "label": "Equity Financing"
+    },
+    {
+      "id": "area_265",
+      "label": "Institutional Investment"
+    },
+    {
+      "id": "area_266",
+      "label": "Retail Investment"
+    },
+    {
+      "id": "area_267",
+      "label": "Financing/Capital"
+    },
+    {
+      "id": "area_268",
+      "label": "Digital Capital Raising"
+    },
+    {
+      "id": "area_269",
+      "label": "Crowdfunding"
+    },
+    {
+      "id": "area_270",
+      "label": "Non-Investment-Based Crowdfunding"
+    },
+    {
+      "id": "area_271",
+      "label": "Donation-Based Crowdfunding"
+    },
+    {
+      "id": "area_272",
+      "label": "Reward-Based Crowdfunding"
+    },
+    {
+      "id": "area_273",
+      "label": "Investment-Based Crowdfunding"
+    },
+    {
+      "id": "area_274",
+      "label": "Equity-Based Crowdfunding"
+    },
+    {
+      "id": "area_275",
+      "label": "Real Estate Crowdfunding"
+    },
+    {
+      "id": "area_276",
+      "label": "Revenue/Profit Share Crowdfunding"
+    },
+    {
+      "id": "area_277",
+      "label": "Crowdinvesting"
+    },
+    {
+      "id": "area_278",
+      "label": "Credit and Factoring"
+    },
+    {
+      "id": "area_279",
+      "label": "Governance"
+    },
+    {
+      "id": "area_280",
+      "label": "Insurance"
+    },
+    {
+      "id": "area_281",
+      "label": "P&C Insurance"
+    },
+    {
+      "id": "area_282",
+      "label": "Reinsurance"
+    },
+    {
+      "id": "area_283",
+      "label": "Insurance Data"
+    },
+    {
+      "id": "area_284",
+      "label": "Insurance Infrastructure"
+    },
+    {
+      "id": "area_285",
+      "label": "P2P Insurance"
+    },
+    {
+      "id": "area_286",
+      "label": "Insurance Comparision"
+    },
+    {
+      "id": "area_287",
+      "label": "Comparision Platforms for Insurauce Products"
+    },
+    {
+      "id": "area_288",
+      "label": "Mobile/Product Insurance"
+    },
+    {
+      "id": "area_289",
+      "label": "Insurance Consumer Platforms"
+    },
+    {
+      "id": "area_290",
+      "label": "On-Demand Insurance"
+    },
+    {
+      "id": "area_291",
+      "label": "Usage-Based Insurance"
+    },
+    {
+      "id": "area_292",
+      "label": "Parametric-Based Insurance"
+    },
+    {
+      "id": "area_293",
+      "label": "Peer-to-Peer Insurance"
+    },
+    {
+      "id": "area_294",
+      "label": "Technical Service Provider (TSP)"
+    },
+    {
+      "id": "area_295",
+      "label": "Digital Brokers or Agent"
+    },
+    {
+      "id": "area_296",
+      "label": "Customer Management"
+    },
+    {
+      "id": "area_297",
+      "label": "Claims & Risk Managment Solutions"
+    },
+    {
+      "id": "area_298",
+      "label": "On-Demand Insurance"
+    },
+    {
+      "id": "area_299",
+      "label": "Health Insurance"
+    },
+    {
+      "id": "area_300",
+      "label": "Robo-Advisors (Insurance)"
+    },
+    {
+      "id": "area_301",
+      "label": "IoT (Including Telematics)"
+    },
+    {
+      "id": "area_302",
+      "label": "Enterprise Technology"
+    },
+    {
+      "id": "area_303",
+      "label": "API Management"
+    },
+    {
+      "id": "area_304",
+      "label": "Cloud Computing"
+    },
+    {
+      "id": "area_305",
+      "label": "AI/ML/NLP"
+    },
+    {
+      "id": "area_306",
+      "label": "Enterprise Blockchain"
+    },
+    {
+      "id": "area_307",
+      "label": "Financial Management and Business Intelligence"
+    },
+    {
+      "id": "area_308",
+      "label": "Digital Accounting"
+    },
+    {
+      "id": "area_309",
+      "label": "Electronic Invoicing"
+    },
+    {
+      "id": "area_310",
+      "label": "Digital Identity"
+    },
+    {
+      "id": "area_311",
+      "label": "Security & Biometrics"
+    },
+    {
+      "id": "area_312",
+      "label": "KYC Solutions"
+    },
+    {
+      "id": "area_313",
+      "label": "Fraud Prevention & Risk Management"
+    },
+    {
+      "id": "area_314",
+      "label": "Alternative Credit Analytics"
+    },
+    {
+      "id": "area_315",
+      "label": "Alternative Credit Rating Agency"
+    },
+    {
+      "id": "area_316",
+      "label": "Credit Scoring"
+    },
+    {
+      "id": "area_317",
+      "label": "Alternative Data Analytics"
+    },
+    {
+      "id": "area_318",
+      "label": "Psychometric Analytics"
+    },
+    {
+      "id": "area_319",
+      "label": "Sociometric Analytics"
+    },
+    {
+      "id": "area_320",
+      "label": "Biometric Analytics"
+    },
+    {
+      "id": "area_321",
+      "label": "RegTech"
+    },
+    {
+      "id": "area_322",
+      "label": "Profiling and Due Diligence"
+    },
+    {
+      "id": "area_323",
+      "label": "Blockchain Forensics"
+    },
+    {
+      "id": "area_324",
+      "label": "Risk Analytics"
+    },
+    {
+      "id": "area_325",
+      "label": "Dynamic Compliance"
+    },
+    {
+      "id": "area_326",
+      "label": "Market Monitoring"
+    },
+    {
+      "id": "area_327",
+      "label": "Search Engines and Comparision Sights"
+    },
+    {
+      "id": "area_328",
+      "label": "Infrastructure, IT, and Enabling Technologies"
+    },
+    {
+      "id": "area_329",
+      "label": "API/Connectivity"
+    },
+    {
+      "id": "area_330",
+      "label": "API"
+    },
+    {
+      "id": "area_331",
+      "label": "Connectivity"
+    },
+    {
+      "id": "area_332",
+      "label": "Platforms"
+    },
+    {
+      "id": "area_333",
+      "label": "FX"
+    },
+    {
+      "id": "area_334",
+      "label": "Brokers/Trading"
+    },
+    {
+      "id": "area_335",
+      "label": "Trading Platforms"
+    },
+    {
+      "id": "area_336",
+      "label": "Trading Bots"
+    },
+    {
+      "id": "area_337",
+      "label": "Crypto Currencies"
+    },
+    {
+      "id": "area_338",
+      "label": "Security"
+    },
+    {
+      "id": "area_339",
+      "label": "Biometrics"
+    },
+    {
+      "id": "area_340",
+      "label": "Authentication"
+    },
+    {
+      "id": "area_341",
+      "label": "Compliance & Scoring"
+    },
+    {
+      "id": "area_342",
+      "label": "Compliance"
+    },
+    {
+      "id": "area_343",
+      "label": "Scoring"
+    },
+    {
+      "id": "area_344",
+      "label": "Business Tools"
+    },
+    {
+      "id": "area_345",
+      "label": "Financial Software"
+    },
+    {
+      "id": "area_346",
+      "label": "ERP CRM PSA"
+    },
+    {
+      "id": "area_347",
+      "label": "HR Payroll"
+    },
+    {
+      "id": "area_348",
+      "label": "Accounting"
+    },
+    {
+      "id": "area_349",
+      "label": "Blockchain"
+    },
+    {
+      "id": "area_350",
+      "label": "Data & Analytics"
+    },
+    {
+      "id": "area_351",
+      "label": "Risk Managmeent"
+    },
+    {
+      "id": "area_352",
+      "label": "News/Research"
+    },
+    {
+      "id": "area_353",
+      "label": "Algorithms"
+    },
+    {
+      "id": "area_354",
+      "label": "Analytics/BI"
+    },
+    {
+      "id": "area_355",
+      "label": "Real Estate Platforms"
+    },
+    {
+      "id": "area_356",
+      "label": "Distributed Lending Technologies"
+    },
+    {
+      "id": "area_357",
+      "label": "Artificial Intelligence"
+    },
+    {
+      "id": "area_358",
+      "label": "Pre-Defined Technologies"
+    },
+    {
+      "id": "area_359",
+      "label": "Programmed AI"
+    },
+    {
+      "id": "area_360",
+      "label": "Process Automation"
+    },
+    {
+      "id": "area_361",
+      "label": "Fixed Robotics"
+    },
+    {
+      "id": "area_362",
+      "label": "Mobile Robotics"
+    },
+    {
+      "id": "area_363",
+      "label": "Reactive Technologies"
+    },
+    {
+      "id": "area_364",
+      "label": "Narrow AI"
+    },
+    {
+      "id": "area_365",
+      "label": "Predictive Analytics"
+    },
+    {
+      "id": "area_366",
+      "label": "Recognition Vision"
+    },
+    {
+      "id": "area_367",
+      "label": "Suggestion Provision"
+    },
+    {
+      "id": "area_368",
+      "label": "Proactive Technologies"
+    },
+    {
+      "id": "area_369",
+      "label": "Broad AI"
+    },
+    {
+      "id": "area_370",
+      "label": "Sensory Perception"
+    },
+    {
+      "id": "area_371",
+      "label": "Decision Generation"
+    },
+    {
+      "id": "area_372",
+      "label": "Conversation Exchange"
+    },
+    {
+      "id": "area_373",
+      "label": "Dexterous Robotics"
+    },
+    {
+      "id": "area_374",
+      "label": "Self-Improving Technologies"
+    },
+    {
+      "id": "area_375",
+      "label": "Reinforced AI"
+    },
+    {
+      "id": "area_376",
+      "label": "Navigation Robotics"
+    },
+    {
+      "id": "area_377",
+      "label": "Collaboration Robotics"
+    },
+    {
+      "id": "area_378",
+      "label": "Solution Discovery"
+    },
+    {
+      "id": "area_379",
+      "label": "Generative Design"
+    },
+    {
+      "id": "area_380",
+      "label": "Creative Origination"
+    },
+    {
+      "id": "area_381",
+      "label": "Assistive Robotics"
+    },
+    {
+      "id": "area_382",
+      "label": "Cybersecurity"
+    },
+    {
+      "id": "area_383",
+      "label": "Advanced Services from Cloud Infrastructures"
+    },
+    {
+      "id": "area_384",
+      "label": "Component Type"
+    },
+    {
+      "id": "area_385",
+      "label": "Component"
+    },
+    {
+      "id": "area_386",
+      "label": "AI/ML Component"
+    },
+    {
+      "id": "area_387",
+      "label": "Reinforcement Learning Component"
+    },
+    {
+      "id": "area_388",
+      "label": "Transfer Learning Component"
+    },
+    {
+      "id": "area_389",
+      "label": "Generative AI Component"
+    },
+    {
+      "id": "area_390",
+      "label": "AR/VR Component"
+    },
+    {
+      "id": "area_391",
+      "label": "IT Component"
+    },
+    {
+      "id": "area_392",
+      "label": "Blockchain Component"
+    },
+    {
+      "id": "area_393",
+      "label": "Application"
+    },
+    {
+      "id": "area_394",
+      "label": "Pattern"
+    },
+    {
+      "id": "area_395",
+      "label": "Framework"
+    },
+    {
+      "id": "area_396",
+      "label": "Information"
+    },
+    {
+      "id": "area_397",
+      "label": "3D printing"
+    },
+    {
+      "id": "area_398",
+      "label": "AR/VR"
+    },
+    {
+      "id": "area_399",
+      "label": "Blockchain"
+    },
+    {
+      "id": "area_400",
+      "label": "Engineering software"
+    },
+    {
+      "id": "area_401",
+      "label": "Gaming"
+    },
+    {
+      "id": "area_402",
+      "label": "Image processing"
+    },
+    {
+      "id": "area_403",
+      "label": "Machine learning"
+    },
+    {
+      "id": "area_404",
+      "label": "Printing"
+    },
+    {
+      "id": "area_405",
+      "label": "Scanning"
+    },
+    {
+      "id": "area_406",
+      "label": "Security"
+    },
+    {
+      "id": "area_407",
+      "label": "Social media"
+    },
+    {
+      "id": "area_408",
+      "label": "Speech recognition"
+    },
+    {
+      "id": "area_409",
+      "label": "Storage"
+    },
+    {
+      "id": "area_410",
+      "label": "Streaming"
+    },
+    {
+      "id": "area_411",
+      "label": "UI"
+    },
+    {
+      "id": "area_412",
+      "label": "eCommerce"
+    },
+    {
+      "id": "area_413",
+      "label": "Prevention"
+    },
+    {
+      "id": "area_414",
+      "label": "Supplements"
+    },
+    {
+      "id": "area_415",
+      "label": "Mental Health"
+    },
+    {
+      "id": "area_416",
+      "label": "Wellbeing"
+    },
+    {
+      "id": "area_417",
+      "label": "Screening, Monitoring, & Diagnostics"
+    },
+    {
+      "id": "area_418",
+      "label": "Remote Monitoring"
+    },
+    {
+      "id": "area_419",
+      "label": "Remote Care"
+    },
+    {
+      "id": "area_420",
+      "label": "Diagnosis"
+    },
+    {
+      "id": "area_421",
+      "label": "Population Health"
+    },
+    {
+      "id": "area_422",
+      "label": "POC Testing"
+    },
+    {
+      "id": "area_423",
+      "label": "Lab Testing"
+    },
+    {
+      "id": "area_424",
+      "label": "Decision Support"
+    },
+    {
+      "id": "area_425",
+      "label": "Diagnostic Tech"
+    },
+    {
+      "id": "area_426",
+      "label": "Treatment"
+    },
+    {
+      "id": "area_427",
+      "label": "Home Health"
+    },
+    {
+      "id": "area_428",
+      "label": "Hospitals"
+    },
+    {
+      "id": "area_429",
+      "label": "Primary Care"
+    },
+    {
+      "id": "area_430",
+      "label": "Specialist Treatment"
+    },
+    {
+      "id": "area_431",
+      "label": "Telehealth"
+    },
+    {
+      "id": "area_432",
+      "label": "Workforce Care"
+    },
+    {
+      "id": "area_433",
+      "label": "Home Health"
+    },
+    {
+      "id": "area_434",
+      "label": "Aged Care"
+    },
+    {
+      "id": "area_435",
+      "label": "Social Care"
+    },
+    {
+      "id": "area_436",
+      "label": "Rehabilitation"
+    },
+    {
+      "id": "area_437",
+      "label": "Chronic Care"
+    },
+    {
+      "id": "area_438",
+      "label": "Digital Health Systems"
+    },
+    {
+      "id": "area_439",
+      "label": "Health Management Solutions"
+    },
+    {
+      "id": "area_440",
+      "label": "Electronic Health Record (EHR)/Electronic Medical Record (EMR)"
+    },
+    {
+      "id": "area_441",
+      "label": "Hospital"
+    },
+    {
+      "id": "area_442",
+      "label": "Physician/Clinic"
+    },
+    {
+      "id": "area_443",
+      "label": "Practice Management"
+    },
+    {
+      "id": "area_444",
+      "label": "Health Analytics"
+    },
+    {
+      "id": "area_445",
+      "label": "Health Records"
+    },
+    {
+      "id": "area_446",
+      "label": "Bookings & Referrals"
+    },
+    {
+      "id": "area_447",
+      "label": "Patient Portals"
+    },
+    {
+      "id": "area_448",
+      "label": "Pharmacy"
+    },
+    {
+      "id": "area_449",
+      "label": "Prescriptive Analytics"
+    },
+    {
+      "id": "area_450",
+      "label": "e-Prescriptions"
+    },
+    {
+      "id": "area_451",
+      "label": "Health Services Search"
+    },
+    {
+      "id": "area_452",
+      "label": "Healthcare Navigation"
+    },
+    {
+      "id": "area_453",
+      "label": "Medical Concierge"
+    },
+    {
+      "id": "area_454",
+      "label": "Medical Tourism"
+    },
+    {
+      "id": "area_455",
+      "label": "Triage"
+    },
+    {
+      "id": "area_456",
+      "label": "Health InsurTech"
+    },
+    {
+      "id": "area_457",
+      "label": "Health Claim/Management"
+    },
+    {
+      "id": "area_458",
+      "label": "Health Insurance"
+    },
+    {
+      "id": "area_459",
+      "label": "Medical Billing & Payments"
+    },
+    {
+      "id": "area_460",
+      "label": "Medical Diagnostics"
+    },
+    {
+      "id": "area_461",
+      "label": "Diagnosis Tools"
+    },
+    {
+      "id": "area_462",
+      "label": "Medical Imaging"
+    },
+    {
+      "id": "area_463",
+      "label": "Computer-Aided Imaging"
+    },
+    {
+      "id": "area_464",
+      "label": "Omics Related Diagnosis"
+    },
+    {
+      "id": "area_465",
+      "label": "Medical Education"
+    },
+    {
+      "id": "area_466",
+      "label": "Consumer Education"
+    },
+    {
+      "id": "area_467",
+      "label": "Patient Engagement"
+    },
+    {
+      "id": "area_468",
+      "label": "Health Care Provider (HCP) Education"
+    },
+    {
+      "id": "area_469",
+      "label": "Health Information Platforms"
+    },
+    {
+      "id": "area_470",
+      "label": "Online Health Communities"
+    },
+    {
+      "id": "area_471",
+      "label": "Other Health Care Provider (HCP) Networks"
+    },
+    {
+      "id": "area_472",
+      "label": "Patient Health Forums"
+    },
+    {
+      "id": "area_473",
+      "label": "Physician Networks"
+    },
+    {
+      "id": "area_474",
+      "label": "Online Marketplace"
+    },
+    {
+      "id": "area_475",
+      "label": "Consumer Marketplace"
+    },
+    {
+      "id": "area_476",
+      "label": "Online Health Sites"
+    },
+    {
+      "id": "area_477",
+      "label": "On-Demand Lab Tests"
+    },
+    {
+      "id": "area_478",
+      "label": "Online Pharmacy"
+    },
+    {
+      "id": "area_479",
+      "label": "Professional Marketplace"
+    },
+    {
+      "id": "area_480",
+      "label": "Online Health Communities"
+    },
+    {
+      "id": "area_481",
+      "label": "Healthcare Mobile Communications"
+    },
+    {
+      "id": "area_482",
+      "label": "Healthcare Marketing"
+    },
+    {
+      "id": "area_483",
+      "label": "Patient Solutions"
+    },
+    {
+      "id": "area_484",
+      "label": "Digital Therapeutics"
+    },
+    {
+      "id": "area_485",
+      "label": "Self-Help Tools"
+    },
+    {
+      "id": "area_486",
+      "label": "Disease Management"
+    },
+    {
+      "id": "area_487",
+      "label": "Health/Symptom Checker"
+    },
+    {
+      "id": "area_488",
+      "label": "Medication Management"
+    },
+    {
+      "id": "area_489",
+      "label": "Population Health Management"
+    },
+    {
+      "id": "area_490",
+      "label": "Care Coordination & Collaboration"
+    },
+    {
+      "id": "area_491",
+      "label": "Corporate Health"
+    },
+    {
+      "id": "area_492",
+      "label": "Home Healthcare"
+    },
+    {
+      "id": "area_493",
+      "label": "Integrated Solutions"
+    },
+    {
+      "id": "area_494",
+      "label": "Medical Devices"
+    },
+    {
+      "id": "area_495",
+      "label": "Diagnostic Devices"
+    },
+    {
+      "id": "area_496",
+      "label": "Treatment Devices"
+    },
+    {
+      "id": "area_497",
+      "label": "Monitor Devices"
+    },
+    {
+      "id": "area_498",
+      "label": "Pacemakers"
+    },
+    {
+      "id": "area_499",
+      "label": "Insulin Pumps"
+    },
+    {
+      "id": "area_500",
+      "label": "Surgical Robots"
+    },
+    {
+      "id": "area_501",
+      "label": "Remote Devices"
+    },
+    {
+      "id": "area_502",
+      "label": "Assistive Care"
+    },
+    {
+      "id": "area_503",
+      "label": "Remote Diagnostic Devices"
+    },
+    {
+      "id": "area_504",
+      "label": "Remote Monitoring Devices"
+    },
+    {
+      "id": "area_505",
+      "label": "Wearable Devices"
+    },
+    {
+      "id": "area_506",
+      "label": "Devices to Track Health Data"
+    },
+    {
+      "id": "area_507",
+      "label": "Clinical Trials"
+    },
+    {
+      "id": "area_508",
+      "label": "Decentralized Clinical Trials"
+    },
+    {
+      "id": "area_509",
+      "label": "Clinical Trial Matching"
+    },
+    {
+      "id": "area_510",
+      "label": "Data Collection Tools"
+    },
+    {
+      "id": "area_511",
+      "label": "Telemedicine"
+    },
+    {
+      "id": "area_512",
+      "label": "Teleconsultation"
+    },
+    {
+      "id": "area_513",
+      "label": "Telepathology"
+    },
+    {
+      "id": "area_514",
+      "label": "Teleradiology"
+    },
+    {
+      "id": "area_515",
+      "label": "Telesurgery"
+    },
+    {
+      "id": "area_516",
+      "label": "Veterinarian"
+    },
+    {
+      "id": "area_517",
+      "label": "Animal Health Forums"
+    },
+    {
+      "id": "area_518",
+      "label": "Animal Imaging"
+    },
+    {
+      "id": "area_519",
+      "label": "Animal Monitoring"
+    },
+    {
+      "id": "area_520",
+      "label": "Omics Related Veteniary"
+    },
+    {
+      "id": "area_521",
+      "label": "Televeterinary"
+    },
+    {
+      "id": "area_522",
+      "label": "Wellness"
+    },
+    {
+      "id": "area_523",
+      "label": "Connected Health"
+    },
+    {
+      "id": "area_524",
+      "label": "Telehealth"
+    },
+    {
+      "id": "area_525",
+      "label": "Tele Education"
+    },
+    {
+      "id": "area_526",
+      "label": "Telemedicine"
+    },
+    {
+      "id": "area_527",
+      "label": "Interactive Patient Care"
+    },
+    {
+      "id": "area_528",
+      "label": "Remote Patient Monitoring"
+    },
+    {
+      "id": "area_529",
+      "label": "Store and Forward"
+    },
+    {
+      "id": "area_530",
+      "label": "Patient Portal"
+    },
+    {
+      "id": "area_531",
+      "label": "Health Information Portability"
+    },
+    {
+      "id": "area_532",
+      "label": "Clinical"
+    },
+    {
+      "id": "area_533",
+      "label": "Behavorial"
+    },
+    {
+      "id": "area_534",
+      "label": "Dental"
+    },
+    {
+      "id": "area_535",
+      "label": "Medication"
+    },
+    {
+      "id": "area_536",
+      "label": "Personal Wellness"
+    },
+    {
+      "id": "area_537",
+      "label": "Exercise"
+    },
+    {
+      "id": "area_538",
+      "label": "Mobile Fitness/Health"
+    },
+    {
+      "id": "area_539",
+      "label": "IoT Fitness"
+    },
+    {
+      "id": "area_540",
+      "label": "Nutrition"
+    },
+    {
+      "id": "area_541",
+      "label": "Sleep"
+    },
+    {
+      "id": "area_542",
+      "label": "Relaxization"
+    },
+    {
+      "id": "area_543",
+      "label": "Health IT (eHealth)"
+    },
+    {
+      "id": "area_544",
+      "label": "Home Health Tech"
+    },
+    {
+      "id": "area_545",
+      "label": "Electronic Health Records"
+    },
+    {
+      "id": "area_546",
+      "label": "Clinical Decision Support"
+    },
+    {
+      "id": "area_547",
+      "label": "Clinical Information Systems"
+    },
+    {
+      "id": "area_548",
+      "label": "Health Information Management"
+    },
+    {
+      "id": "area_549",
+      "label": "Enterprise Image Management"
+    },
+    {
+      "id": "area_550",
+      "label": "Clinical Admin"
+    },
+    {
+      "id": "area_551",
+      "label": "Clinical Intelligence"
+    },
+    {
+      "id": "area_552",
+      "label": "Interoperability, Data, & Analytics"
+    },
+    {
+      "id": "area_553",
+      "label": "Digital Front Door & Patient Engagement"
+    },
+    {
+      "id": "area_554",
+      "label": "Virtual Care"
+    },
+    {
+      "id": "area_555",
+      "label": "Digital Pharmacy & DME Fulfillment"
+    },
+    {
+      "id": "area_556",
+      "label": "Provider Directories & Care Navigation"
+    },
+    {
+      "id": "area_557",
+      "label": "App Development & Deployment"
+    },
+    {
+      "id": "area_558",
+      "label": "Precision Medicine"
+    },
+    {
+      "id": "area_559",
+      "label": "Health Data Integration & Analytics"
+    },
+    {
+      "id": "area_560",
+      "label": "Workflow Digitization & Automation"
+    },
+    {
+      "id": "area_561",
+      "label": "Clinical Trials Tech"
+    },
+    {
+      "id": "area_562",
+      "label": "Hybrid Care"
+    },
+    {
+      "id": "area_563",
+      "label": "Hybrid Virtual/In-Person Care"
+    },
+    {
+      "id": "area_564",
+      "label": "Omics Related Applications"
+    },
+    {
+      "id": "area_565",
+      "label": "Smart Equipments"
+    },
+    {
+      "id": "area_566",
+      "label": "Wearables"
+    },
+    {
+      "id": "area_567",
+      "label": "Wellness Applications"
+    },
+    {
+      "id": "area_568",
+      "label": "Wellness Information Platforms"
+    },
+    {
+      "id": "area_569",
+      "label": "Safety & Security"
+    },
+    {
+      "id": "area_570",
+      "label": "Conterfeit Tracking"
+    },
+    {
+      "id": "area_571",
+      "label": "Cybersecurity"
+    },
+    {
+      "id": "area_572",
+      "label": "Pharmacompliance"
+    },
+    {
+      "id": "area_573",
+      "label": "Healthcare Logistics"
+    },
+    {
+      "id": "area_574",
+      "label": "Transportation Management"
+    },
+    {
+      "id": "area_575",
+      "label": "On-Demand Delivery"
+    },
+    {
+      "id": "area_576",
+      "label": "Others"
+    },
+    {
+      "id": "area_577",
+      "label": "Contanimation Managment"
+    },
+    {
+      "id": "area_578",
+      "label": "Health Care Provider (HCP) Job Board"
+    },
+    {
+      "id": "area_579",
+      "label": "Healthcare Marketing"
+    },
+    {
+      "id": "area_580",
+      "label": "Revenue Cycle Management"
+    },
+    {
+      "id": "area_581",
+      "label": "Spciel Enterprise"
+    },
+    {
+      "id": "area_582",
+      "label": "Software Provider"
+    },
+    {
+      "id": "area_583",
+      "label": "Gamification"
+    },
+    {
+      "id": "area_584",
+      "label": "Hardware"
+    },
+    {
+      "id": "area_585",
+      "label": "Medical Imaging"
+    },
+    {
+      "id": "area_586",
+      "label": "Medical Robotics"
+    },
+    {
+      "id": "area_587",
+      "label": "Medical Devices"
+    },
+    {
+      "id": "area_588",
+      "label": "Digital Medical Devices"
+    },
+    {
+      "id": "area_589",
+      "label": "Artificial Intelligence"
+    },
+    {
+      "id": "area_590",
+      "label": "Diagnostic Tools"
+    },
+    {
+      "id": "area_591",
+      "label": "Personalized Treatment Plans"
+    },
+    {
+      "id": "area_592",
+      "label": "Improve Efficiency of Healthcare Delivery"
+    },
+    {
+      "id": "area_593",
+      "label": "Health Information Technology (HIT)"
+    },
+    {
+      "id": "area_594",
+      "label": "Store, Manage, Analyze Healthcare Data"
+    },
+    {
+      "id": "area_595",
+      "label": "Electronic Health Records (EHRs)"
+    },
+    {
+      "id": "area_596",
+      "label": "Clinical Decision Suppurt Systems"
+    },
+    {
+      "id": "area_597",
+      "label": "Population Health Management Systems"
+    },
+    {
+      "id": "area_598",
+      "label": "Finance"
+    },
+    {
+      "id": "area_599",
+      "label": "Insurance"
+    },
+    {
+      "id": "area_600",
+      "label": "Health Benefits"
+    },
+    {
+      "id": "area_601",
+      "label": "Supply Chain"
+    },
+    {
+      "id": "area_602",
+      "label": "Drug Production"
+    },
+    {
+      "id": "area_603",
+      "label": "Health Logistics"
+    },
+    {
+      "id": "area_604",
+      "label": "Pharmacies"
+    },
+    {
+      "id": "area_605",
+      "label": "Research"
+    },
+    {
+      "id": "area_606",
+      "label": "Clinical Trials"
+    },
+    {
+      "id": "area_607",
+      "label": "Precision Medicine"
+    },
+    {
+      "id": "area_608",
+      "label": "Genomics"
+    },
+    {
+      "id": "area_609",
+      "label": "Discovery"
+    },
+    {
+      "id": "area_610",
+      "label": "Clinical Insights"
+    },
+    {
+      "id": "area_611",
+      "label": "Research"
+    },
+    {
+      "id": "area_612",
+      "label": "Bioinformatics"
+    },
+    {
+      "id": "area_613",
+      "label": "Drug Discovery"
+    },
+    {
+      "id": "area_614",
+      "label": "Omics Related Research"
+    },
+    {
+      "id": "area_615",
+      "label": "Biotechnology"
+    },
+    {
+      "id": "area_616",
+      "label": "Vaccines"
+    },
+    {
+      "id": "area_617",
+      "label": "Gene Therapy"
+    },
+    {
+      "id": "area_618",
+      "label": "Personalized Medicine"
+    },
+    {
+      "id": "area_619",
+      "label": "Precision Medicine"
+    },
+    {
+      "id": "area_620",
+      "label": "DNA Sequencing"
+    },
+    {
+      "id": "area_621",
+      "label": "Genetic Engineering"
+    },
+    {
+      "id": "area_622",
+      "label": "3D Bioprinting"
+    },
+    {
+      "id": "area_623",
+      "label": "Adoptive Cell Transfer"
+    }
+  ],
+  "domain_to_dimension": [
+    {
+      "from": "domain_1",
+      "to": "dimension_1"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_10"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_11"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_12"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_13"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_14"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_15"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_16"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_2"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_3"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_4"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_5"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_6"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_7"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_8"
+    },
+    {
+      "from": "domain_1",
+      "to": "dimension_9"
+    },
+    {
+      "from": "domain_2",
+      "to": "dimension_17"
+    },
+    {
+      "from": "domain_2",
+      "to": "dimension_18"
+    }
+  ],
+  "dimension_to_area": [
+    {
+      "from": "dimension_1",
+      "to": "area_1"
+    },
+    {
+      "from": "dimension_1",
+      "to": "area_2"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_158"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_159"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_160"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_161"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_162"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_163"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_165"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_166"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_167"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_168"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_169"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_170"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_171"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_172"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_173"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_174"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_175"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_176"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_177"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_178"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_179"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_180"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_181"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_182"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_183"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_184"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_185"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_186"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_187"
+    },
+    {
+      "from": "dimension_11",
+      "to": "area_188"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_189"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_190"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_191"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_192"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_193"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_194"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_195"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_196"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_197"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_198"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_199"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_200"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_201"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_202"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_203"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_204"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_205"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_206"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_207"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_208"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_209"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_210"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_211"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_212"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_213"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_214"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_215"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_216"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_217"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_218"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_219"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_220"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_221"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_222"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_223"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_224"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_225"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_226"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_227"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_228"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_229"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_230"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_231"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_242"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_243"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_247"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_248"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_249"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_250"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_251"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_252"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_253"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_254"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_255"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_256"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_257"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_258"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_259"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_260"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_261"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_262"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_263"
+    },
+    {
+      "from": "dimension_12",
+      "to": "area_264"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_232"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_233"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_234"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_235"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_236"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_237"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_238"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_239"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_240"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_241"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_244"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_245"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_246"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_265"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_266"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_267"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_268"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_269"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_270"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_271"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_272"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_273"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_274"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_275"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_276"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_277"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_278"
+    },
+    {
+      "from": "dimension_13",
+      "to": "area_279"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_280"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_281"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_282"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_283"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_284"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_285"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_286"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_287"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_288"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_289"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_290"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_291"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_292"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_293"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_294"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_295"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_296"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_297"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_298"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_299"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_300"
+    },
+    {
+      "from": "dimension_14",
+      "to": "area_301"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_302"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_303"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_304"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_305"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_306"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_307"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_308"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_309"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_310"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_311"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_312"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_313"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_314"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_315"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_316"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_317"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_318"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_319"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_320"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_321"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_322"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_323"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_324"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_325"
+    },
+    {
+      "from": "dimension_15",
+      "to": "area_326"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_327"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_328"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_329"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_330"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_331"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_332"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_333"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_334"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_335"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_336"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_337"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_338"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_339"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_340"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_341"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_342"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_343"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_344"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_345"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_346"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_347"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_348"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_349"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_350"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_351"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_352"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_353"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_354"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_355"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_356"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_357"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_358"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_359"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_360"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_361"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_362"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_363"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_364"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_365"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_366"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_367"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_368"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_369"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_370"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_371"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_372"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_373"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_374"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_375"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_376"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_377"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_378"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_379"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_380"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_381"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_382"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_383"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_384"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_385"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_386"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_387"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_388"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_389"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_390"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_391"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_392"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_393"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_394"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_395"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_396"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_397"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_398"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_399"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_400"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_401"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_402"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_403"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_404"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_405"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_406"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_407"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_408"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_409"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_410"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_411"
+    },
+    {
+      "from": "dimension_16",
+      "to": "area_412"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_413"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_414"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_415"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_416"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_417"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_418"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_419"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_420"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_421"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_422"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_423"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_424"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_425"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_426"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_427"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_428"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_429"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_430"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_431"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_432"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_433"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_434"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_435"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_436"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_437"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_438"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_439"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_440"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_441"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_442"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_443"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_444"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_445"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_446"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_447"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_448"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_449"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_450"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_451"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_452"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_453"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_454"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_455"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_456"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_457"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_458"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_459"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_460"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_461"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_462"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_463"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_464"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_465"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_466"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_467"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_468"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_469"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_470"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_471"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_472"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_473"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_474"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_475"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_476"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_477"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_478"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_479"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_480"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_481"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_482"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_483"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_484"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_485"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_486"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_487"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_488"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_489"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_490"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_491"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_492"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_493"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_494"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_495"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_496"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_497"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_498"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_499"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_500"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_501"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_502"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_503"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_504"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_505"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_506"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_507"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_508"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_509"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_510"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_511"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_512"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_513"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_514"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_515"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_516"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_517"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_518"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_519"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_520"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_521"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_522"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_523"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_524"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_525"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_526"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_527"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_528"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_529"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_530"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_531"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_532"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_533"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_534"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_535"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_536"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_537"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_538"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_539"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_540"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_541"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_542"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_543"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_544"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_545"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_546"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_547"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_548"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_549"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_550"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_551"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_552"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_553"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_554"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_555"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_556"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_557"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_558"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_559"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_560"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_561"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_562"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_563"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_564"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_565"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_566"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_567"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_568"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_569"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_570"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_571"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_572"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_573"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_574"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_575"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_576"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_577"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_578"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_579"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_580"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_581"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_582"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_583"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_584"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_585"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_586"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_587"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_588"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_589"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_590"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_591"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_592"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_593"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_594"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_595"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_596"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_597"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_598"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_599"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_600"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_601"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_602"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_603"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_604"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_605"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_606"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_607"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_608"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_609"
+    },
+    {
+      "from": "dimension_17",
+      "to": "area_610"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_611"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_612"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_613"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_614"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_615"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_616"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_617"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_618"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_619"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_620"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_621"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_622"
+    },
+    {
+      "from": "dimension_18",
+      "to": "area_623"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_3"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_4"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_5"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_6"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_7"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_8"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_9"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_10"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_11"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_12"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_13"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_14"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_15"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_16"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_17"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_18"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_19"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_20"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_21"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_22"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_23"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_24"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_25"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_26"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_27"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_28"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_29"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_30"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_31"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_32"
+    },
+    {
+      "from": "dimension_2",
+      "to": "area_33"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_34"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_35"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_36"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_37"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_38"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_39"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_40"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_41"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_42"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_43"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_44"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_45"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_46"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_47"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_48"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_49"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_50"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_51"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_52"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_53"
+    },
+    {
+      "from": "dimension_3",
+      "to": "area_54"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_55"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_56"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_57"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_58"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_59"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_60"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_61"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_62"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_63"
+    },
+    {
+      "from": "dimension_4",
+      "to": "area_64"
+    },
+    {
+      "from": "dimension_5",
+      "to": "area_65"
+    },
+    {
+      "from": "dimension_5",
+      "to": "area_66"
+    },
+    {
+      "from": "dimension_5",
+      "to": "area_67"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_68"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_69"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_70"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_71"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_72"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_73"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_74"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_75"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_76"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_77"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_78"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_79"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_80"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_81"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_82"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_83"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_84"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_85"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_86"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_87"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_88"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_89"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_90"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_91"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_92"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_93"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_94"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_95"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_96"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_97"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_98"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_99"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_100"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_101"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_102"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_103"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_104"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_105"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_106"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_107"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_108"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_109"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_110"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_111"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_112"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_113"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_114"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_115"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_116"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_117"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_118"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_119"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_120"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_121"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_122"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_123"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_124"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_125"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_126"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_127"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_128"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_129"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_130"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_131"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_132"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_133"
+    },
+    {
+      "from": "dimension_6",
+      "to": "area_134"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_135"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_136"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_137"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_138"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_139"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_140"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_141"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_142"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_143"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_144"
+    },
+    {
+      "from": "dimension_7",
+      "to": "area_145"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_146"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_147"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_148"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_149"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_150"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_151"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_152"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_153"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_154"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_155"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_156"
+    },
+    {
+      "from": "dimension_8",
+      "to": "area_157"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets & local env
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime / caches
+.chroma/
+data/chroma_taxonomy/
+
+# Logs
+*.log
+
+# Optional: uncomment if the pickle is regenerated in CI instead of committed
+# data/taxonomy_graph.gpickle
