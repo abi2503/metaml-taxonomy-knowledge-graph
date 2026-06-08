@@ -10,6 +10,7 @@ echo "Starting MetaML Taxonomy API..."
 echo "Project root: $SCRIPT_DIR"
 echo ""
 
+# Local full install: pip install -r requirements-local.txt
 PYTHONPATH="$SCRIPT_DIR" uvicorn index.api:app \
     --reload \
     --port 8000 \
