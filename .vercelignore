@@ -7,3 +7,6 @@ lib/
 .chroma/
 data/chroma_taxonomy/
 taxonomy_graph.html
+src/
+*.md
+!README.md

@@ -1,17 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "pip install -r requirements-vercel.txt",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/main.py" }
+    { "source": "/(.*)", "destination": "/api/app" }
   ],
   "env": {
     "VERCEL": "1"
-  },
-  "functions": {
-    "api/main.py": {
-      "maxDuration": 60,
-      "memory": 3008,
-      "includeFiles": "data/taxonomy_graph.gpickle"
-    }
   }
 }

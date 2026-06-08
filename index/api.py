@@ -40,13 +40,9 @@ from functions.embedder import build_index, semantic_search, classify_text, inde
 # ── Lifespan ───────────────────────────────────────────────────────────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Vercel serverless: skip eager build (lazy-init on first /search or /classify)
-    if os.getenv("VERCEL"):
-        print("[api] Vercel mode — embeddings load on first semantic request.", file=sys.stderr)
-    else:
-        print("[api] Building embedding index ...", file=sys.stderr)
-        build_index()
-        print("[api] Ready.", file=sys.stderr)
+    print("[api] Building embedding index ...", file=sys.stderr)
+    build_index()
+    print("[api] Ready.", file=sys.stderr)
     yield
 
 
