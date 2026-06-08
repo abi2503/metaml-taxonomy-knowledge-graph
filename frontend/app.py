@@ -17,7 +17,19 @@ from typing import Any, Dict, List, Optional
 import requests
 import streamlit as st
 
-API_BASE = os.getenv("API_BASE_URL", "http://localhost:8000")
+
+def _resolve_api_base() -> str:
+    """Local dev → localhost; Streamlit Cloud → Vercel API (or secrets override)."""
+    if os.getenv("API_BASE_URL"):
+        return os.getenv("API_BASE_URL").rstrip("/")
+    try:
+        return str(st.secrets["API_BASE_URL"]).rstrip("/")
+    except Exception:
+        pass
+    return "https://ragmetaml.vercel.app"
+
+
+API_BASE = _resolve_api_base()
 
 st.set_page_config(
     page_title="MetaML Taxonomy",
